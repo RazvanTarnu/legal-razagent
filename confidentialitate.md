@@ -21,3 +21,4 @@ Token-urile de acces sunt stocate local, izolate de accesul public. Accesul la a
 
 ## 6. Drepturile utilizatorilor
 Deoarece aplicația gestionează doar conturile proprii ale dezvoltatorului, revocarea accesului se poate face oricând direct din setările de securitate ale contului de TikTok (Secțiunea: Aplicații autorizate).
+ 
